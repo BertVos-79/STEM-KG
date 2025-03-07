@@ -25,6 +25,7 @@ The project is conducted in collaboration with **Brainjar, KU Leuven, and UGent*
 ## **Repository Structure**
 The repository is organized into the following directories:
 
+```
 STEM-KG/
 │── data/                  # Raw and processed datasets
 │   ├── eindtermen/        # Extracted STEM concepts from Flemish curricula
@@ -45,6 +46,7 @@ STEM-KG/
 │── .gitignore             # Files and folders to exclude from version control
 │── LICENSE                # (To be added when making the repo public)
 
+```
 
 ## **How to Contribute**
 Since this repository is private, only authorized contributors have access.  
