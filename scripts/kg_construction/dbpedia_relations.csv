@@ -1,0 +1,213 @@
+concept,conceptLabel,relation,relationLabel,target,targetLabel
+light,light,wikipagewikilink,property,energy,energy
+light,light,wikipagewikilink,property,magnetic_field,magnetic field
+light,light,wikipagewikilink,property,electron,electron
+light,light,wikipagewikilink,property,frequency,frequency
+electron,electron,wikipagewikilink,property,frequency,frequency
+electron,electron,wikipagewikilink,property,light,light
+electron,electron,wikipagewikilink,property,electric_charge,electric charge
+electron,electron,wikipagewikilink,property,exponential_decay,exponential decay
+electron,electron,hypernym,hypernym,particle,particle
+electron,electron,wikipagewikilink,property,electric_field,electric field
+electron,electron,wikipagewikilink,property,electric_potential,electric potential
+electron,electron,wikipagewikilink,property,magnetic_field,magnetic field
+frequency,frequency,wikipagewikilink,property,sound,sound
+frequency,frequency,wikipagewikilink,property,light,light
+frequency,frequency,wikipagewikilink,property,wave,wave
+frequency,frequency,wikipagewikilink,property,sine_function,sine function
+frequency,frequency,wikipagewikilink,property,magnetic_field,magnetic field
+frequency,frequency,wikipagewikilink,property,electric_field,electric field
+frequency,frequency,wikipagewikilink,property,alternating_current,alternating current
+logarithm,logarithm,wikipagewikilink,property,frequency,frequency
+logarithm,logarithm,wikipagewikilink,property,exponential_function,exponential function
+logarithm,logarithm,wikipagewikilink,property,definite_integral,definite integral
+harmonic_oscillator,harmonic oscillator,wikipagewikilink,property,amplitude,amplitude
+harmonic_oscillator,harmonic oscillator,wikipagewikilink,property,frequency,frequency
+harmonic_oscillator,harmonic oscillator,wikipagewikilink,property,exponential_decay,exponential decay
+harmonic_oscillator,harmonic oscillator,wikipagewikilink,property,torque,torque
+harmonic_oscillator,harmonic oscillator,wikipagewikilink,property,velocity,velocity
+harmonic_oscillator,harmonic oscillator,wikipagewikilink,property,force,force
+harmonic_oscillator,harmonic oscillator,wikipagewikilink,property,electric_charge,electric charge
+harmonic_oscillator,harmonic oscillator,wikipagewikilink,property,alternating_current,alternating current
+harmonic_oscillator,harmonic oscillator,wikipagewikilink,property,kinetic_energy,kinetic energy
+harmonic_oscillator,harmonic oscillator,wikipagewikilink,property,mass,mass
+particle,particle,wikipagewikilink,property,electron,electron
+particle,particle,wikipagewikilink,property,mass,mass
+amplitude,amplitude,wikipagewikilink,property,sound,sound
+amplitude,amplitude,wikipagewikilink,property,frequency,frequency
+amplitude,amplitude,wikipagewikilink,property,electric_power,electric power
+amplitude,amplitude,wikipagewikilink,property,wave,wave
+amplitude,amplitude,wikipagewikilink,property,logarithm,logarithm
+amplitude,amplitude,wikipagewikilink,property,alternating_current,alternating current
+amplitude,amplitude,wikipagewikilink,property,direct_current,direct current
+amplitude,amplitude,wikipagewikilink,property,electric_field,electric field
+exponential_decay,exponential decay,wikipagewikilink,property,temperature,temperature
+exponential_decay,exponential decay,wikipagewikilink,property,electric_potential,electric potential
+exponential_decay,exponential decay,wikipagewikilink,property,exponential_growth,exponential growth
+exponential_decay,exponential decay,wikipagewikilink,property,chemical_reaction,chemical reaction
+exponential_decay,exponential decay,wikipagewikilink,property,electric_charge,electric charge
+exponential_decay,exponential decay,wikipagewikilink,property,harmonic_oscillator,harmonic oscillator
+exponential_function,exponential function,wikipagewikilink,property,exponential_decay,exponential decay
+exponential_function,exponential function,wikipagewikilink,property,exponential_growth,exponential growth
+force,force,wikipagewikilink,property,electron,electron
+force,force,wikipagewikilink,property,wave,wave
+force,force,wikipagewikilink,property,energy,energy
+force,force,wikipagewikilink,property,velocity,velocity
+force,force,wikipagewikilink,property,euclidean_vector,euclidean vector
+force,force,wikipagewikilink,property,electric_charge,electric charge
+force,force,wikipagewikilink,property,torque,torque
+force,force,wikipagewikilink,property,kinetic_energy,kinetic energy
+force,force,wikipagewikilink,property,mass,mass
+refractive_index,refractive index,wikipagewikilink,property,harmonic_oscillator,harmonic oscillator
+refractive_index,refractive index,wikipagewikilink,property,electron,electron
+refractive_index,refractive index,wikipagewikilink,property,wave,wave
+refractive_index,refractive index,wikipagewikilink,property,light,light
+refractive_index,refractive index,wikipagewikilink,property,sound,sound
+refractive_index,refractive index,wikipagewikilink,property,frequency,frequency
+refractive_index,refractive index,wikipagewikilink,property,magnetic_field,magnetic field
+refractive_index,refractive index,wikipagewikilink,property,electric_field,electric field
+refractive_index,refractive index,wikipagewikilink,property,temperature,temperature
+sound,sound,wikipagewikilink,property,wave,wave
+sound,sound,wikipagewikilink,property,frequency,frequency
+sound,sound,wikipagewikilink,property,amplitude,amplitude
+sound,sound,wikipagewikilink,property,velocity,velocity
+wave,wave,wikipagewikilink,property,amplitude,amplitude
+wave,wave,wikipagewikilink,property,energy,energy
+wave,wave,wikipagewikilink,property,sound,sound
+wave,wave,wikipagewikilink,property,electron,electron
+wave,wave,wikipagewikilink,property,refractive_index,refractive index
+wave,wave,wikipagewikilink,property,frequency,frequency
+wave,wave,wikipagewikilink,property,magnetic_field,magnetic field
+wave,wave,wikipagewikilink,property,electric_field,electric field
+wave,wave,wikipagewikilink,property,temperature,temperature
+exponential_growth,exponential growth,wikipagewikilink,property,electron,electron
+exponential_growth,exponential growth,wikipagewikilink,property,logarithm,logarithm
+exponential_growth,exponential growth,wikipagewikilink,property,exponential_decay,exponential decay
+exponential_growth,exponential growth,wikipagewikilink,property,frequency,frequency
+exponential_growth,exponential growth,wikipagewikilink,property,exponential_function,exponential function
+exponential_growth,exponential growth,wikipagewikilink,property,mass,mass
+electric_charge,electric charge,wikipagewikilink,property,electron,electron
+electric_charge,electric charge,wikipagewikilink,property,force,force
+electric_charge,electric charge,wikipagewikilink,property,electric_field,electric field
+electric_charge,electric charge,wikipagewikilink,property,magnetic_field,magnetic field
+electric_potential,electric potential,wikipagewikilink,property,energy,energy
+electric_potential,electric potential,wikipagewikilink,property,mass,mass
+electric_potential,electric potential,wikipagewikilink,property,kinetic_energy,kinetic energy
+electric_potential,electric potential,wikipagewikilink,property,electric_charge,electric charge
+electric_potential,electric potential,wikipagewikilink,property,magnetic_field,magnetic field
+electric_potential,electric potential,wikipagewikilink,property,electric_field,electric field
+energy_storage,energy storage,wikipagewikilink,property,energy,energy
+energy_storage,energy storage,wikipagewikilink,property,direct_current,direct current
+energy_storage,energy storage,wikipagewikilink,property,chemical_reaction,chemical reaction
+energy_storage,energy storage,wikipagewikilink,property,magnetic_field,magnetic field
+energy_storage,energy storage,wikipagewikilink,property,chemical_energy,chemical energy
+energy_storage,energy storage,wikipagewikilink,property,alternating_current,alternating current
+energy_storage,energy storage,wikipagewikilink,property,electric_field,electric field
+energy_storage,energy storage,wikipagewikilink,property,kinetic_energy,kinetic energy
+energy_storage,energy storage,wikipagewikilink,property,frequency,frequency
+velocity,velocity,wikipagewikilink,property,kinetic_energy,kinetic energy
+radiant_energy,radiant energy,wikipagewikilink,property,energy,energy
+radiant_energy,radiant energy,wikipagewikilink,property,heat,heat
+radiant_energy,radiant energy,wikipagewikilink,property,electric_potential,electric potential
+radiant_energy,radiant energy,wikipagewikilink,property,frequency,frequency
+mass,mass,wikipagewikilink,property,frequency,frequency
+radiant_energy,radiant energy,hypernym,hypernym,energy,energy
+mass,mass,wikipagewikilink,property,thermal_energy,thermal energy
+mass,mass,wikipagewikilink,property,energy,energy
+mass,mass,wikipagewikilink,property,kinetic_energy,kinetic energy
+mass,mass,wikipagewikilink,property,velocity,velocity
+mass,mass,wikipagewikilink,property,force,force
+mass,mass,wikipagewikilink,property,particle,particle
+chemical_energy,chemical energy,wikipagewikilink,property,chemical_reaction,chemical reaction
+chemical_energy,chemical energy,wikipagewikilink,property,energy,energy
+chemical_reaction,chemical reaction,wikipagewikilink,property,electron,electron
+chemical_reaction,chemical reaction,wikipagewikilink,property,light,light
+chemical_reaction,chemical reaction,wikipagewikilink,property,thermal_energy,thermal energy
+chemical_reaction,chemical reaction,wikipagewikilink,property,temperature,temperature
+chemical_reaction,chemical reaction,wikipagewikilink,property,electron_configuration,electron configuration
+chemical_reaction,chemical reaction,wikipagewikilink,property,heat,heat
+electric_power,electric power,wikipagewikilink,property,chemical_energy,chemical energy
+electric_power,electric power,wikipagewikilink,property,force,force
+electric_power,electric power,wikipagewikilink,property,electric_potential,electric potential
+electric_power,electric power,wikipagewikilink,property,torque,torque
+electric_power,electric power,wikipagewikilink,property,electric_charge,electric charge
+electric_power,electric power,wikipagewikilink,property,alternating_current,alternating current
+electric_power,electric power,wikipagewikilink,property,velocity,velocity
+electric_power,electric power,wikipagewikilink,property,kinetic_energy,kinetic energy
+electric_power,electric power,wikipagewikilink,property,energy,energy
+energy,energy,wikipagewikilink,property,frequency,frequency
+energy,energy,wikipagewikilink,property,chemical_energy,chemical energy
+energy,energy,wikipagewikilink,property,force,force
+energy,energy,wikipagewikilink,property,radiant_energy,radiant energy
+energy,energy,wikipagewikilink,property,sound,sound
+energy,energy,wikipagewikilink,property,harmonic_oscillator,harmonic oscillator
+energy,energy,wikipagewikilink,property,light,light
+energy,energy,wikipagewikilink,property,thermal_energy,thermal energy
+energy,energy,wikipagewikilink,property,mass,mass
+energy,energy,wikipagewikilink,property,kinetic_energy,kinetic energy
+energy,energy,wikipagewikilink,property,electron,electron
+energy,energy,wikipagewikilink,property,energy_storage,energy storage
+energy,energy,wikipagewikilink,property,heat,heat
+energy,energy,wikipagewikilink,property,electric_charge,electric charge
+energy,energy,wikipagewikilink,property,temperature,temperature
+energy,energy,wikipagewikilink,property,chemical_reaction,chemical reaction
+torque,torque,wikipagewikilink,property,euclidean_vector,euclidean vector
+torque,torque,wikipagewikilink,property,energy,energy
+torque,torque,wikipagewikilink,property,force,force
+thermal_energy,thermal energy,wikipagewikilink,property,energy,energy
+thermal_energy,thermal energy,wikipagewikilink,property,temperature,temperature
+thermal_energy,thermal energy,wikipagewikilink,property,chemical_energy,chemical energy
+thermal_energy,thermal energy,wikipagewikilink,property,kinetic_energy,kinetic energy
+thermal_energy,thermal energy,wikipagewikilink,property,heat,heat
+galvanic_cell,galvanic cell,wikipagewikilink,property,direct_current,direct current
+euclidean_vector,euclidean vector,wikipagewikilink,property,electric_field,electric field
+euclidean_vector,euclidean vector,wikipagewikilink,property,torque,torque
+euclidean_vector,euclidean vector,wikipagewikilink,property,velocity,velocity
+euclidean_vector,euclidean vector,wikipagewikilink,property,force,force
+euclidean_vector,euclidean vector,wikipagewikilink,property,magnetic_field,magnetic field
+force,force,wikipagewikilink,property,temperature,temperature
+force,force,wikipagewikilink,property,electric_field,electric field
+force,force,wikipagewikilink,property,magnetic_field,magnetic field
+nuclear_power,nuclear power,wikipagewikilink,property,thermal_energy,thermal energy
+heat,heat,wikipagewikilink,property,thermal_energy,thermal energy
+heat,heat,wikipagewikilink,property,kinetic_energy,kinetic energy
+heat,heat,wikipagewikilink,property,energy,energy
+heat,heat,wikipagewikilink,property,temperature,temperature
+heat,heat,hypernym,hypernym,energy,energy
+temperature,temperature,wikipagewikilink,property,amplitude,amplitude
+temperature,temperature,wikipagewikilink,property,kinetic_energy,kinetic energy
+temperature,temperature,wikipagewikilink,property,chemical_reaction,chemical reaction
+temperature,temperature,wikipagewikilink,property,mass,mass
+temperature,temperature,wikipagewikilink,property,thermal_energy,thermal energy
+kinetic_energy,kinetic energy,wikipagewikilink,property,energy,energy
+kinetic_energy,kinetic energy,wikipagewikilink,property,mass,mass
+kinetic_energy,kinetic energy,wikipagewikilink,property,heat,heat
+kinetic_energy,kinetic energy,wikipagewikilink,property,velocity,velocity
+kinetic_energy,kinetic energy,wikipagewikilink,property,thermal_energy,thermal energy
+kinetic_energy,kinetic energy,wikipagewikilink,property,chemical_energy,chemical energy
+kinetic_energy,kinetic energy,seealso,seealso,mass,mass
+electron_configuration,electron configuration,wikipagewikilink,property,electron,electron
+electron_configuration,electron configuration,wikipagewikilink,property,chemical_reaction,chemical reaction
+electron_configuration,electron configuration,wikipagewikilink,property,magnetic_field,magnetic field
+electric_field,electric field,wikipagewikilink,property,electron,electron
+electric_field,electric field,wikipagewikilink,property,electric_potential,electric potential
+electric_field,electric field,wikipagewikilink,property,force,force
+electric_field,electric field,wikipagewikilink,property,electric_charge,electric charge
+electric_field,electric field,wikipagewikilink,property,euclidean_vector,euclidean vector
+electric_field,electric field,wikipagewikilink,property,mass,mass
+magnetic_field,magnetic field,wikipagewikilink,property,electron,electron
+magnetic_field,magnetic field,wikipagewikilink,property,force,force
+magnetic_field,magnetic field,wikipagewikilink,property,velocity,velocity
+magnetic_field,magnetic field,wikipagewikilink,property,euclidean_vector,euclidean vector
+magnetic_field,magnetic field,wikipagewikilink,property,electric_potential,electric potential
+magnetic_field,magnetic field,wikipagewikilink,property,alternating_current,alternating current
+magnetic_field,magnetic field,wikipagewikilink,property,electric_charge,electric charge
+magnetic_field,magnetic field,wikipagewikilink,property,electric_field,electric field
+alternating_current,alternating current,wikipagewikilink,property,electric_power,electric power
+alternating_current,alternating current,wikipagewikilink,property,electric_charge,electric charge
+alternating_current,alternating current,wikipagewikilink,property,direct_current,direct current
+direct_current,direct current,wikipagewikilink,property,electric_power,electric power
+direct_current,direct current,wikipagewikilink,property,electric_charge,electric charge
+direct_current,direct current,wikipagewikilink,property,alternating_current,alternating current
+direct_current_circuit,direct current circuit,wikipagewikilink,property,direct_current,direct current
+direct_current_circuit,direct current circuit,wikipageredirects,wikipage redirect,direct_current,direct current

@@ -1,0 +1,3 @@
+concept,conceptLabel,relation,relationLabel,target,targetLabel
+Q11423,mass,P1552,has characteristic,Q11379,energy
+Q11379,energy,P1552,has characteristic,Q11423,mass

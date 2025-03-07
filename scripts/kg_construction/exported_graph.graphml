@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="name" for="node" attr.name="name"/>
+<key id="id" for="node" attr.name="id"/>
+<key id="labels" for="node" attr.name="labels"/>
+<key id="name" for="edge" attr.name="name"/>
+<key id="label" for="edge" attr.name="label"/>
+<key id="id" for="edge" attr.name="id"/>
+<graph id="G" edgedefault="directed">
+<node id="n0" labels=":Concept:WAVE"><data key="labels">:Concept:WAVE</data><data key="id">wave</data><data key="name">wave</data></node>
+<node id="n1" labels=":Concept:SINEFUNCTION"><data key="labels">:Concept:SINEFUNCTION</data><data key="id">sine_function</data><data key="name">sine function</data></node>
+<node id="n2" labels=":ALTERNATINGCURRENT:Concept"><data key="labels">:ALTERNATINGCURRENT:Concept</data><data key="name">alternating current</data><data key="id">alternating_current</data></node>
+<node id="n3" labels=":Concept:LOGARITHM"><data key="labels">:Concept:LOGARITHM</data><data key="id">logarithm</data><data key="name">logarithm</data></node>
+<node id="n4" labels=":Concept:EXPONENTIALFUNCTION"><data key="labels">:Concept:EXPONENTIALFUNCTION</data><data key="name">exponential function</data><data key="id">exponential_function</data></node>
+<node id="n5" labels=":Concept:DEFINITEINTEGRAL"><data key="labels">:Concept:DEFINITEINTEGRAL</data><data key="id">definite_integral</data><data key="name">definite integral</data></node>
+<node id="n6" labels=":Concept:HARMONICOSCILLATOR"><data key="labels">:Concept:HARMONICOSCILLATOR</data><data key="name">harmonic oscillator</data><data key="id">harmonic_oscillator</data></node>
+<node id="n7" labels=":AMPLITUDE:Concept"><data key="labels">:AMPLITUDE:Concept</data><data key="id">amplitude</data><data key="name">amplitude</data></node>
+<node id="n8" labels=":Concept:TORQUE"><data key="labels">:Concept:TORQUE</data><data key="id">torque</data><data key="name">torque</data></node>
+<node id="n9" labels=":Concept:VELOCITY"><data key="labels">:Concept:VELOCITY</data><data key="id">velocity</data><data key="name">velocity</data></node>
+<node id="n10" labels=":Concept:FORCE"><data key="labels">:Concept:FORCE</data><data key="id">force</data><data key="name">force</data></node>
+<node id="n11" labels=":Concept:KINETICENERGY"><data key="labels">:Concept:KINETICENERGY</data><data key="id">kinetic_energy</data><data key="name">kinetic energy</data></node>
+<node id="n12" labels=":Concept:MASS"><data key="labels">:Concept:MASS</data><data key="id">mass</data><data key="name">mass</data></node>
+<node id="n13" labels=":Concept:ELECTRICPOWER"><data key="labels">:Concept:ELECTRICPOWER</data><data key="id">electric_power</data><data key="name">electric power</data></node>
+<node id="n14" labels=":Concept:DIRECTCURRENT"><data key="labels">:Concept:DIRECTCURRENT</data><data key="id">direct_current</data><data key="name">direct current</data></node>
+<node id="n15" labels=":Concept:TEMPERATURE"><data key="labels">:Concept:TEMPERATURE</data><data key="id">temperature</data><data key="name">temperature</data></node>
+<node id="n16" labels=":Concept:EXPONENTIALGROWTH"><data key="labels">:Concept:EXPONENTIALGROWTH</data><data key="name">exponential growth</data><data key="id">exponential_growth</data></node>
+<node id="n17" labels=":CHEMICALREACTION:Concept"><data key="labels">:CHEMICALREACTION:Concept</data><data key="id">chemical_reaction</data><data key="name">chemical reaction</data></node>
+<node id="n18" labels=":Concept:EUCLIDEANVECTOR"><data key="labels">:Concept:EUCLIDEANVECTOR</data><data key="id">euclidean_vector</data><data key="name">euclidean vector</data></node>
+<node id="n19" labels=":Concept:REFRACTIVEINDEX"><data key="labels">:Concept:REFRACTIVEINDEX</data><data key="id">refractive_index</data><data key="name">refractive index</data></node>
+<node id="n20" labels=":Concept:ENERGYSTORAGE"><data key="labels">:Concept:ENERGYSTORAGE</data><data key="id">energy_storage</data><data key="name">energy storage</data></node>
+<node id="n21" labels=":CHEMICALENERGY:Concept"><data key="labels">:CHEMICALENERGY:Concept</data><data key="id">chemical_energy</data><data key="name">chemical energy</data></node>
+<node id="n22" labels=":Concept:RADIANTENERGY"><data key="labels">:Concept:RADIANTENERGY</data><data key="id">radiant_energy</data><data key="name">radiant energy</data></node>
+<node id="n23" labels=":Concept:HEAT"><data key="labels">:Concept:HEAT</data><data key="id">heat</data><data key="name">heat</data></node>
+<node id="n24" labels=":Concept:THERMALENERGY"><data key="labels">:Concept:THERMALENERGY</data><data key="id">thermal_energy</data><data key="name">thermal energy</data></node>
+<node id="n25" labels=":Concept:ELECTRONCONFIGURATION"><data key="labels">:Concept:ELECTRONCONFIGURATION</data><data key="name">electron configuration</data><data key="id">electron_configuration</data></node>
+<node id="n26" labels=":Concept:GALVANICCELL"><data key="labels">:Concept:GALVANICCELL</data><data key="id">galvanic_cell</data><data key="name">galvanic cell</data></node>
+<node id="n27" labels=":Concept:NUCLEARPOWER"><data key="labels">:Concept:NUCLEARPOWER</data><data key="id">nuclear_power</data><data key="name">nuclear power</data></node>
+<node id="n28" labels=":Concept:DIRECTCURRENTCIRCUIT"><data key="labels">:Concept:DIRECTCURRENTCIRCUIT</data><data key="name">direct current circuit</data><data key="id">direct_current_circuit</data></node>
+<node id="n29" labels=":Concept:MASS"><data key="labels">:Concept:MASS</data><data key="id">Q11423</data><data key="name">mass</data></node>
+<node id="n30" labels=":Concept:ENERGY"><data key="labels">:Concept:ENERGY</data><data key="id">Q11379</data><data key="name">energy</data></node>
+<node id="n31" labels=":Concept:LIGHT"><data key="labels">:Concept:LIGHT</data><data key="id">light</data><data key="name">light</data></node>
+<node id="n32" labels=":Concept:ENERGY"><data key="labels">:Concept:ENERGY</data><data key="id">energy</data><data key="name">energy</data></node>
+<node id="n33" labels=":Concept:MAGNETICFIELD"><data key="labels">:Concept:MAGNETICFIELD</data><data key="id">magnetic_field</data><data key="name">magnetic field</data></node>
+<node id="n34" labels=":Concept:ELECTRON"><data key="labels">:Concept:ELECTRON</data><data key="id">electron</data><data key="name">electron</data></node>
+<node id="n35" labels=":Concept:FREQUENCY"><data key="labels">:Concept:FREQUENCY</data><data key="id">frequency</data><data key="name">frequency</data></node>
+<node id="n36" labels=":Concept:ELECTRICCHARGE"><data key="labels">:Concept:ELECTRICCHARGE</data><data key="id">electric_charge</data><data key="name">electric charge</data></node>
+<node id="n37" labels=":Concept:EXPONENTIALDECAY"><data key="labels">:Concept:EXPONENTIALDECAY</data><data key="id">exponential_decay</data><data key="name">exponential decay</data></node>
+<node id="n38" labels=":Concept:PARTICLE"><data key="labels">:Concept:PARTICLE</data><data key="id">particle</data><data key="name">particle</data></node>
+<node id="n39" labels=":Concept:ELECTRICFIELD"><data key="labels">:Concept:ELECTRICFIELD</data><data key="id">electric_field</data><data key="name">electric field</data></node>
+<node id="n40" labels=":Concept:ELECTRICPOTENTIAL"><data key="labels">:Concept:ELECTRICPOTENTIAL</data><data key="name">electric potential</data><data key="id">electric_potential</data></node>
+<node id="n41" labels=":Concept:SOUND"><data key="labels">:Concept:SOUND</data><data key="id">sound</data><data key="name">sound</data></node>
+<edge id="e2" source="n9" target="n11" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e3" source="n22" target="n32" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e4" source="n22" target="n23" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e5" source="n22" target="n40" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e49" source="n22" target="n35" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e50" source="n12" target="n35" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e51" source="n22" target="n32" label="HYPERNYM"><data key="label">HYPERNYM</data><data key="id">hypernym</data><data key="name">hypernym</data></edge>
+<edge id="e52" source="n12" target="n24" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e53" source="n12" target="n32" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e54" source="n12" target="n11" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e55" source="n12" target="n9" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e56" source="n12" target="n10" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e57" source="n12" target="n38" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e58" source="n21" target="n17" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e59" source="n21" target="n32" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e60" source="n17" target="n34" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e61" source="n17" target="n31" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e62" source="n17" target="n24" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e63" source="n17" target="n15" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e64" source="n17" target="n25" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e65" source="n17" target="n23" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e66" source="n13" target="n21" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e67" source="n13" target="n10" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e68" source="n13" target="n40" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e69" source="n13" target="n8" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e70" source="n13" target="n36" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e71" source="n13" target="n2" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e72" source="n13" target="n9" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e73" source="n13" target="n11" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e74" source="n13" target="n32" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e75" source="n32" target="n35" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e76" source="n32" target="n21" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e77" source="n32" target="n10" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e78" source="n32" target="n22" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e79" source="n32" target="n41" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e80" source="n32" target="n6" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e81" source="n32" target="n31" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e82" source="n32" target="n24" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e83" source="n32" target="n12" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e84" source="n32" target="n11" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e85" source="n32" target="n34" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e86" source="n32" target="n20" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e87" source="n32" target="n23" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e88" source="n32" target="n36" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e89" source="n32" target="n15" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e90" source="n32" target="n17" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e91" source="n8" target="n18" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e92" source="n8" target="n32" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e93" source="n8" target="n10" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e209" source="n24" target="n32" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e210" source="n24" target="n15" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e211" source="n24" target="n21" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e212" source="n24" target="n11" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e213" source="n24" target="n23" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e214" source="n26" target="n14" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e215" source="n18" target="n39" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e216" source="n18" target="n8" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e217" source="n18" target="n9" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e218" source="n18" target="n10" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e219" source="n18" target="n33" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e220" source="n10" target="n15" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e221" source="n10" target="n39" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e222" source="n10" target="n33" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e223" source="n27" target="n24" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e224" source="n23" target="n24" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e225" source="n23" target="n11" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e226" source="n23" target="n32" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e227" source="n23" target="n15" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e228" source="n23" target="n32" label="HYPERNYM"><data key="label">HYPERNYM</data><data key="id">hypernym</data><data key="name">hypernym</data></edge>
+<edge id="e229" source="n15" target="n7" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e230" source="n15" target="n11" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e231" source="n15" target="n17" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e232" source="n15" target="n12" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e233" source="n15" target="n24" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e234" source="n11" target="n32" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e235" source="n11" target="n12" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e236" source="n11" target="n23" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e237" source="n11" target="n9" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e238" source="n11" target="n24" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e239" source="n11" target="n21" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e240" source="n11" target="n12" label="SEEALSO"><data key="label">SEEALSO</data><data key="id">seealso</data><data key="name">seealso</data></edge>
+<edge id="e241" source="n25" target="n34" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e242" source="n25" target="n17" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e243" source="n25" target="n33" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e244" source="n39" target="n34" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e245" source="n39" target="n40" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e246" source="n39" target="n10" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e247" source="n39" target="n36" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e248" source="n39" target="n18" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e249" source="n39" target="n12" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e250" source="n33" target="n34" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e251" source="n33" target="n10" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e252" source="n33" target="n9" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e253" source="n33" target="n18" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e254" source="n33" target="n40" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e255" source="n33" target="n2" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e256" source="n33" target="n36" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e257" source="n33" target="n39" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e258" source="n2" target="n13" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e259" source="n2" target="n36" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e260" source="n2" target="n14" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e261" source="n14" target="n13" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e262" source="n14" target="n36" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e263" source="n14" target="n2" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e264" source="n28" target="n14" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e265" source="n28" target="n14" label="WIKIPAGEREDIRECT"><data key="label">WIKIPAGEREDIRECT</data><data key="id">wikipageredirects</data><data key="name">wikipage redirect</data></edge>
+<edge id="e266" source="n29" target="n30" label="HASCHARACTERISTIC"><data key="label">HASCHARACTERISTIC</data><data key="name">has characteristic</data><data key="id">P1552</data></edge>
+<edge id="e267" source="n30" target="n29" label="HASCHARACTERISTIC"><data key="label">HASCHARACTERISTIC</data><data key="name">has characteristic</data><data key="id">P1552</data></edge>
+<edge id="e268" source="n31" target="n32" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e269" source="n31" target="n33" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e270" source="n31" target="n34" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e271" source="n31" target="n35" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e272" source="n34" target="n35" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e273" source="n34" target="n31" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e274" source="n34" target="n36" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e275" source="n34" target="n37" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e276" source="n34" target="n38" label="HYPERNYM"><data key="label">HYPERNYM</data><data key="id">hypernym</data><data key="name">hypernym</data></edge>
+<edge id="e277" source="n34" target="n39" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e278" source="n34" target="n40" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e279" source="n34" target="n33" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e280" source="n35" target="n41" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e281" source="n35" target="n31" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e282" source="n35" target="n0" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e283" source="n35" target="n1" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e284" source="n35" target="n33" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e285" source="n35" target="n39" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e286" source="n35" target="n2" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e287" source="n3" target="n35" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e288" source="n3" target="n4" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e289" source="n3" target="n5" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e290" source="n6" target="n7" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e291" source="n6" target="n35" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e292" source="n6" target="n37" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e293" source="n6" target="n8" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e294" source="n6" target="n9" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e295" source="n6" target="n10" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e296" source="n6" target="n36" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e297" source="n6" target="n2" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e298" source="n6" target="n11" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e299" source="n6" target="n12" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e300" source="n38" target="n34" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e301" source="n38" target="n12" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e302" source="n7" target="n41" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e303" source="n7" target="n35" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e304" source="n7" target="n13" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e305" source="n7" target="n0" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e306" source="n7" target="n3" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e307" source="n7" target="n2" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e308" source="n7" target="n14" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e309" source="n7" target="n39" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e310" source="n37" target="n15" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e311" source="n37" target="n40" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e312" source="n37" target="n16" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e313" source="n37" target="n17" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e314" source="n37" target="n36" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e315" source="n37" target="n6" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e316" source="n4" target="n37" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e317" source="n4" target="n16" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e318" source="n10" target="n34" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e319" source="n10" target="n0" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e856" source="n10" target="n32" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e857" source="n10" target="n9" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e858" source="n10" target="n18" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e859" source="n10" target="n36" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e860" source="n10" target="n8" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e861" source="n10" target="n11" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e862" source="n10" target="n12" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e863" source="n19" target="n6" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e864" source="n19" target="n34" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e865" source="n19" target="n0" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e866" source="n19" target="n31" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e867" source="n19" target="n41" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e868" source="n19" target="n35" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e869" source="n19" target="n33" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e870" source="n19" target="n39" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e871" source="n19" target="n15" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e872" source="n41" target="n0" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e873" source="n41" target="n35" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e874" source="n41" target="n7" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e875" source="n41" target="n9" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e876" source="n0" target="n7" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e877" source="n0" target="n32" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e878" source="n0" target="n41" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e879" source="n0" target="n34" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e880" source="n0" target="n19" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e881" source="n0" target="n35" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e882" source="n0" target="n33" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e883" source="n0" target="n39" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e884" source="n0" target="n15" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e885" source="n16" target="n34" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e886" source="n16" target="n3" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e887" source="n16" target="n37" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e888" source="n16" target="n35" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e889" source="n16" target="n4" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e890" source="n16" target="n12" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e891" source="n36" target="n34" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e892" source="n36" target="n10" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e893" source="n36" target="n39" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e894" source="n36" target="n33" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e895" source="n40" target="n32" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e896" source="n40" target="n12" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e897" source="n40" target="n11" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e898" source="n40" target="n36" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e899" source="n40" target="n33" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e900" source="n40" target="n39" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e901" source="n20" target="n32" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e902" source="n20" target="n14" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e903" source="n20" target="n17" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e904" source="n20" target="n33" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e905" source="n20" target="n21" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e906" source="n20" target="n2" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e907" source="n20" target="n39" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e908" source="n20" target="n11" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+<edge id="e909" source="n20" target="n35" label="PROPERTY"><data key="label">PROPERTY</data><data key="id">wikipagewikilink</data><data key="name">property</data></edge>
+</graph>
+</graphml>
