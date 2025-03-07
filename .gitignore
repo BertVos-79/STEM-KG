@@ -1,0 +1,11 @@
+
+# Ignore virtual environments
+venv/
+.venv/
+# Ignore Jupyter notebook checkpoints
+__pycache__/
+.ipynb_checkpoints/
+# Ignore data files (optional, if needed)
+data/*.csv
+data/*.json
+
