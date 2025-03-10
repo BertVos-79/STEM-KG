@@ -1,5 +1,4 @@
 # **STEM-KG: Building a Knowledge Graph for STEM Education**
-🚧 *Work-in-Progress – Private Repository* 🚧
 
 ## **Project Overview**
 This repository contains the scripts and resources for a master's thesis project that aims to construct a **knowledge graph (KG) for STEM education**. The project focuses on:
@@ -57,12 +56,29 @@ For collaboration, follow these best practices:
 4. **Pull requests & code review**: Changes should be reviewed by both contributors before merging to `main`.
 
 ## **Technical Requirements**
+Technical Requirements
 - Python 3.11+
-- Required packages (install using `pip install -r requirements.txt`)
+- Conda environment setup:
+  Install the required dependencies using Conda:
+     conda env create -f requirements.yml
+     conda activate mp_kg_rag_chat
+
+Ollama and Required Model
+This project also requires Ollama and the Mistral-7B-Instruct v0.2 (Q4_0) model.
+
+1. Install Ollama:
+   curl -fsSL https://ollama.com/install.sh | sh
+
+2. Download the required model:
+   ollama pull mistral:7b-instruct-v0.2-q4_0
+
+3. Ensure Ollama is running before using the script:
+   ollama serve
+
+For more details on setting up Ollama, visit: https://ollama.com/docs
+
 
 ## **Future Plans**
 - Completing **concept extraction** and **relation extraction** pipelines.
 - Constructing and validating the **master knowledge graph**.
 - *(Optional)* Experimenting with **RAG integration** for a chatbot prototype.
-
-🚀 **This project is a work-in-progress. Stay tuned for updates!** 🚀
