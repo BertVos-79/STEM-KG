@@ -60,7 +60,9 @@ Technical Requirements
 - Python 3.11+
 - Conda environment setup:
   Install the required dependencies using Conda:
+  
      conda env create -f requirements.yml
+  
      conda activate mp_kg_rag_chat
 
 Ollama and Required Model
